@@ -1,7 +1,8 @@
-p{
-    color: purple;
-    font-family: arial, Times, serif;
-    text-align: center;
-    font-weight:900;
-    font-size: 200px;
+main {
+    max-width: 70%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: navy;
+    color:azure;
+    font-size: 20px;
 }
